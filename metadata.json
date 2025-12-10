@@ -1,0 +1,7 @@
+{
+  "name": "Deep Image Prompt Generator",
+  "description": "Analyze photos to create detailed, recreation-ready AI image prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
